@@ -5,11 +5,11 @@
     "main.js.map": "./static/js/main.1d2530c1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.90b25024.js",
     "runtime-main.js.map": "./static/js/runtime-main.90b25024.js.map",
-    "static/css/2.432a3430.chunk.css": "./static/css/2.432a3430.chunk.css",
+    "static/css/2.53a1d551.chunk.css": "./static/css/2.53a1d551.chunk.css",
     "static/js/2.15ab183f.chunk.js": "./static/js/2.15ab183f.chunk.js",
     "static/js/2.15ab183f.chunk.js.map": "./static/js/2.15ab183f.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/2.432a3430.chunk.css.map": "./static/css/2.432a3430.chunk.css.map",
+    "static/css/2.53a1d551.chunk.css.map": "./static/css/2.53a1d551.chunk.css.map",
     "static/css/main.fcc665d7.chunk.css.map": "./static/css/main.fcc665d7.chunk.css.map",
     "static/images/noDaos.png": "./static/images/25b36b.png",
     "static/images/SubDAO_logo.png": "./static/images/9359d7.png",
@@ -22,7 +22,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.90b25024.js",
-    "static/css/2.432a3430.chunk.css",
+    "static/css/2.53a1d551.chunk.css",
     "static/js/2.15ab183f.chunk.js",
     "static/css/main.fcc665d7.chunk.css",
     "static/js/main.1d2530c1.chunk.js"
