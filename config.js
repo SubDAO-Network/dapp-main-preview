@@ -6,10 +6,10 @@ window.mainAddress = {
   actionDwToken: "0x2021D9265B130B6B23F0f70Cd2CaFf98c710eeB1",
   
   // for vote
-  actionNewVote: '0xF811c5346717a89Ab3BFCf0d03b23463126b72F9',
+  actionNewVote: '0x8e2c198575ED200EC9B958F4784B8193757580bc',
   actionVote: "0x77E54EFeEf02146C6e90661b676Be1D269a8a86F",
   actionExecuteVote: '0xd95a33ecB11C78b1FF4D36073291b08B900Fe14A',
-  actionVaultWithdrawToken: '0x5D1283537AdCE31eb96F58ab0187fB053e55Ee49',
+  actionVaultWithdrawToken: '0x15c77f1EE3Fd6391ee8FCfdFf8C4930e57a149Ab',
   actionVaultExeWithdrawToken: '0x3A4cDe6D856cE7421b563FE50f54e6731196E18a',
 
   // for org
